@@ -7,7 +7,7 @@
 
 
 ### Status do Github
-![Leandro de Jesus's GitHub stats](https://github-readme-stats.vercel.app/api?username=doomquest3&show_icons=true&theme=tokyonight)
+![Leandro de Jesus's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroDeJesus321&show_icons=true&theme=tokyonight)
 
 ### Tecnologias mais utilizadas
 
