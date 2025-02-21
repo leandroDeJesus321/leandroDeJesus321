@@ -26,4 +26,4 @@
 
 </div>
 </br>
-Sou um desenvolvedor web, Front-end, sempre a procura de algo novo para se aprender e melhorar.
+Sou um desenvolvedor web, Front-end, sempre a procura de algo novo a aprender e desenvolver tanto para mim quanto para a sociedade.
